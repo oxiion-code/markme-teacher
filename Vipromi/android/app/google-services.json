@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522071991490",
+    "project_id": "vipromi-3c29d",
+    "storage_bucket": "vipromi-3c29d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522071991490:android:b10406b634b673394e875b",
+        "android_client_info": {
+          "package_name": "com.example.vipromi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiiVQYDU-XpzervcI90xSNtr7SmlX4hgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
